@@ -63,7 +63,6 @@ void levelorderTraversal(node* root){
             }
         }
     }
-
 }
 void buildFromLevelOrder(node* &root) {
     queue<node*> q;

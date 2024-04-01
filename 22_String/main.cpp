@@ -48,6 +48,7 @@ int getlength(char name[]){
 
 int main(){
     char name [10];
+  //  string name;
     cout<<"Enter your name : ";
     cin>>name;
     cout<<"Name : "<<name << endl;

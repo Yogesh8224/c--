@@ -9,6 +9,7 @@ int counting(int n){
     // recurcive relation
     counting(n -1);
      cout<<n<<endl;
+    
 
 }
 
